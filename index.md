@@ -31,7 +31,7 @@
 </tr>
 <tr style="height: 33px;">
 <td style="width: 134.688px; height: 33px;">Discord</td>
-<td style="width: 134.688px; height: 33px;">Not here yet</td>
+<td style="width: 134.688px; height: 33px;"><a href="https://farmergamer2437.github.io/Hub3/">UP!</a></td>
 <td style="width: 134.688px; height: 33px;">Concerts</td>
 <td style="width: 134.688px; height: 33px;">Not here yet</td>
 </tr>
