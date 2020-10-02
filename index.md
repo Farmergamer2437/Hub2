@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/Hub2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/Hub2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1 style="text-align: center;"><span style="color: #ff6600;">Welcome to the Dee Tee page index</span></h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We will have pages listed here and how to get to them. Please be wise about what you click.</p>
+<p>&nbsp;</p>
+<table style="height: 230px;" width="564">
+<tbody>
+<tr style="height: 32px;">
+<td style="width: 134.688px; height: 32px;">Memes</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+<td style="width: 134.688px; height: 32px;">Report</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+</tr>
+<tr style="height: 32px;">
+<td style="width: 134.688px; height: 32px;">Main</td>
+<td style="width: 134.688px; height: 32px;">&nbsp;</td>
+<td style="width: 134.688px; height: 32px;">Admins</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+</tr>
+<tr style="height: 32px;">
+<td style="width: 134.688px; height: 32px;">Squedules</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+<td style="width: 134.688px; height: 32px;">Players</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+</tr>
+<tr style="height: 32px;">
+<td style="width: 134.688px; height: 32px;">Places</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+<td style="width: 134.688px; height: 32px;">Sign up for Deetee</td>
+<td style="width: 134.688px; height: 32px;">Not here yet</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 134.688px; height: 33px;">Discord</td>
+<td style="width: 134.688px; height: 33px;">Not here yet</td>
+<td style="width: 134.688px; height: 33px;">Concerts</td>
+<td style="width: 134.688px; height: 33px;">Not here yet</td>
+</tr>
+<tr style="height: 34.7917px;">
+<td style="width: 134.688px; height: 34.7917px;">Help</td>
+<td style="width: 134.688px; height: 34.7917px;">Not here yet</td>
+<td style="width: 134.688px; height: 34.7917px;">Donations</td>
+<td style="width: 134.688px; height: 34.7917px;">Not here yet</td>
+</tr>
+</tbody>
+</table>
