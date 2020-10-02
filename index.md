@@ -13,7 +13,7 @@
 </tr>
 <tr style="height: 32px;">
 <td style="width: 134.688px; height: 32px;">Main</td>
-<td style="width: 134.688px; height: 32px;">&nbsp;<a href="https://farmergamer2437.github.io/Hub/">UP!: )</a></td>
+<td style="width: 134.688px; height: 32px;">&nbsp;<a href="https://farmergamer2437.github.io/Hub/">UP!</a></td>
 <td style="width: 134.688px; height: 32px;">Admins</td>
 <td style="width: 134.688px; height: 32px;">Not here yet</td>
 </tr>
