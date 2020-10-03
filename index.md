@@ -19,7 +19,7 @@
 </tr>
 <tr style="height: 32px;">
 <td style="width: 134.688px; height: 32px;">Squedules</td>
-<td style="width: 134.688px; height: 32px;">Not here yet</td>
+<td style="width: 134.688px; height: 32px;"><a href="https://farmergamer2437.github.io/Hub6/">UP!</a></td>
 <td style="width: 134.688px; height: 32px;">Players</td>
 <td style="width: 134.688px; height: 32px;">Not here yet</td>
 </tr>
