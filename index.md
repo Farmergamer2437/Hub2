@@ -27,19 +27,16 @@
 <td style="width: 134.688px; height: 32px;">Places</td>
 <td style="width: 134.688px; height: 32px;">Not here yet</td>
 <td style="width: 134.688px; height: 32px;">Sign up for Deetee</td>
-<td style="width: 134.688px; height: 32px;">Not here yet</td>
+<td style="width: 134.688px; height: 32px;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfWQHS0v31nRcAzv-0fXrXYAotrMC-4AawcgmuShIbshOrhzA/viewform?usp=sf_link">UP! (goes to google form)</a></td>
 </tr>
 <tr style="height: 33px;">
 <td style="width: 134.688px; height: 33px;">Discord</td>
 <td style="width: 134.688px; height: 33px;"><a href="https://farmergamer2437.github.io/Hub3/">UP!</a></td>
 <td style="width: 134.688px; height: 33px;">Concerts</td>
-<td style="width: 134.688px; height: 33px;">Not here yet</td>
+<td style="width: 134.688px; height: 33px;"><a href="https://farmergamer2437.github.io/Hub10/">UP!</a></td>
 </tr>
 <tr style="height: 34.7917px;">
 <td style="width: 134.688px; height: 34.7917px;">Help</td>
 <td style="width: 134.688px; height: 34.7917px;"><a href="https://farmergamer2437.github.io/Hub5/">UP!</a></td>
 <td style="width: 134.688px; height: 34.7917px;">Donations</td>
 <td style="width: 134.688px; height: 34.7917px;"><a href="https://farmergamer2437.github.io/Hub9/">UP!</a></td>
-</tr>
-</tbody>
-</table>
