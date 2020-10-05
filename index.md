@@ -41,3 +41,6 @@
 <td style="width: 134.688px; height: 34.7917px;">Donations</td>
 <td style="width: 134.688px; height: 34.7917px;"><a href="https://farmergamer2437.github.io/Hub9/">UP!</a></td>
 </tr>
+</tbody>
+</table>
+<p>Halloween update&nbsp;<a href="https://farmergamer2437.github.io/Dee_tee_Halloween-2020/">here</a>!!</p>
